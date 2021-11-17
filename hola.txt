@@ -1,4 +1,9 @@
 Hola soy un fichero
 Modificacion 1
+<<<<<<< HEAD
 Modificacion 2
 Modificacion 3
+=======
+Modificacion 1 rama
+Modificacion 2 rama
+>>>>>>> rama
